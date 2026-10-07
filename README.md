@@ -2,6 +2,8 @@
 
 [![Invítame a un café en Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/johanderohan)
 
+Ficha del proyecto, capturas y más traducciones al castellano en **[Parches en Castellano](https://parchesencastellano.com/traducciones/nes/dragon-ball-shen-long-no-nazo)**.
+
 Traducción al **español de España** de *Dragon Ball: Shen Long no Nazo*
 (Famicom, Bandai, 1986), el primer videojuego de Dragon Ball, hecha desde la
 ROM japonesa original. En Occidente solo llegó como *Dragon Power*, con los
